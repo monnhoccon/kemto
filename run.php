@@ -1,4 +1,4 @@
 <?php
-require_once('bot.php');
+require_once('dbgid_init.php');
 dbg_menu();
 ?>
