@@ -13,13 +13,13 @@
 /** Config bot Daily Khaber */
 //contoh pengisian token
 //$khaber_token='cukup isi token yg didapat dari capture';
-$khaber_token='uyYrfsWOSO2LMkWwKFO7f';
+$khaber_token='gDljrwFqTFmuxZq7sznIi';
 //contoh penisian sessiony
 //$khaber_session='Etxxxxxxxxxxxxxx==';
-$khaber_session='WRaIfTYrJdKhVl+nYYLPfQ==';
+$khaber_session='z8yvq203shqkznbu';
 //contoh pengisian data
 //$khaber_data='data=xxxxxxx&d_info=xxxxxxxxxx';
-$khaber_data='YeNLZytaGpCTNsh8Di0CAg==&d_info=3r0vfhWfKOGaTTFsTy26dnRMz5PT3tWbmGccaSySb1pGQ+76YPMFm811DaIatu2q5Vj4U9wyO3RP3Da/xj4CmKpZ13lPq6th/x41li1/joth40tnK1oakJM2yHwOLQIC';
+$khaber_data='data=fKggr9YxaHfiAW9QfiHxKSpzYqeZiysR/xmA9UoJpD4=&d_info=x/uqcEEu+mOGurIsGIjI77CFPq2umyBDhi8tQaRjKg+OXc3GuhQ4J85FX7z7wDDIA4kcW1P75wEUgJOhd1DddxFpX4iOE6QgDzmoN9kQ/9I=';
 /** Config bot News Line */
 //contoh pengisian token
 //$news_token='cukup isi token yang di dapat dari capture';
